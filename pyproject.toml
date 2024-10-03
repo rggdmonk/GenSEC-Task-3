@@ -1,0 +1,15 @@
+[project]
+name = "GenSEC-Task-3"
+version = "0.1"
+description = "A submission for the GenSEC Task 3 (2024)"
+authors = [{ name = "Pavel Stepachev" }]
+license = { file = "LICENSE" }
+
+
+[tool.ruff]
+line-length = 120
+include = ["*.py", "*.pyi", "**/pyproject.toml", "*.ipynb"]
+
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
