@@ -1,9 +1,6 @@
-# GenSEC-Task-3
+# [Context and System Fusion in Post-ASR Emotion Recognition with Large Language Models](https://arxiv.org/abs/2410.03312)
 
-## Description
-```bib
-Add bibtex citation here
-```
+The official repository which contains the code for our paper [Context and System Fusion in Post-ASR Emotion Recognition with Large Language Models](https://arxiv.org/abs/2410.03312).
 
 ## Installation
 ```bash
@@ -20,4 +17,19 @@ python -m examples.use_rerank_metrics
 ## Run tests
 ```bash
 pytest
+```
+
+## Citation
+For attribution in academic contexts, please cite this work as:
+
+```bib
+@article{stepachev-2024-contextfusion,
+      title={Context and System Fusion in Post-ASR Emotion Recognition with Large Language Models}, 
+      author={Pavel Stepachev and Pinzhen Chen and Barry Haddow},
+      year={2024},
+      eprint={2410.03312},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.03312}, 
+}
 ```
