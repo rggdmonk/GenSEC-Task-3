@@ -1,5 +1,11 @@
 # [Context and System Fusion in Post-ASR Emotion Recognition with Large Language Models](https://arxiv.org/abs/2410.03312)
 
+<p align="left">
+<a href="https://arxiv.org/abs/2410.03312" alt="arXiv">
+        <img src="https://img.shields.io/badge/arXiv-2410.03312-b31b1b.svg?style=flat" /></a>
+</p>
+
+
 The official repository which contains the code for our paper [Context and System Fusion in Post-ASR Emotion Recognition with Large Language Models](https://arxiv.org/abs/2410.03312).
 
 ## Installation
