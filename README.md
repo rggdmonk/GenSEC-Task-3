@@ -1,4 +1,4 @@
-# [Context and System Fusion in Post-ASR Emotion Recognition with Large Language Models](https://arxiv.org/abs/2410.03312)
+# Context and System Fusion in Post-ASR Emotion Recognition with Large Language Models
 
 <p align="left">
 <a href="https://arxiv.org/abs/2410.03312" alt="arXiv">
